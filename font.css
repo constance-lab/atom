@@ -1,0 +1,18 @@
+/*STYLE*/
+
+.upp {
+  text-transform: uppercase;
+}
+
+.strong {
+  font-weight: 600;
+}
+.light {
+  font-weight: 300;
+}
+
+/*H1,H2 etc*/
+
+h1 {
+  font-size: 80px;
+}

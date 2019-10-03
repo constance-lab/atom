@@ -1,4 +1,25 @@
+@import url("section.css");
+@import url("banner.css");
+@import url("description.css");
+@import url("contact-form.css");
+@import url("project.css");
+@import url("navbar.css");
+@import url("project-details.css");
+@import url("footer.css");
+@import url("font.css");
+
+
+
+
+
 body {
-  background-color: blue;
-  width: 100%;
+background-image: url("images/atom_bg_gradient.png");
+width: 100%;
+font-family: 'Montserrat', sans-serif;
+ margin: 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
+
+
+
