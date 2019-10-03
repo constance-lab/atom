@@ -1,10 +1,52 @@
 .banner {
+  background-size: cover;
+  background-image: url("images/atom_bg.svg");
+  width: 100vw;
+
+}
+
+
+.title-banner {
   margin: auto;
   display: flex;
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  height: 800px;
+  height: 700px;
   text-align: center;
-  width: 100%;
+  width: 30%;
+
 }
+
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  height: 70px;
+
+
+}
+
+.navbar-items {
+   display: flex;
+   justify-content: space-around;
+   margin: 50px 80px;
+}
+
+.items {
+  color: inherit;
+  border: 2px solid #483D8B;
+  padding: 7px 10px;
+  margin: 0 20px;
+
+ }
+
+ .items:hover {
+  color: white;
+  border: 2px solid #483D8B;
+  transition: 0.3s;
+  background-color: #483D8B;
+
+ }
+
+
+

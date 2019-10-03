@@ -13,12 +13,12 @@
 
 
 body {
-background-image: url("images/atom_bg_gradient.png");
-width: 100%;
+
 font-family: 'Montserrat', sans-serif;
  margin: 0px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
 
