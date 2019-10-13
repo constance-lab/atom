@@ -5,11 +5,7 @@
 }
 
 
-/*H1,H2 etc*/
-
-
-
-
+/*google font*/
 
 .darker-s-bold {
   font-family: 'Darker Grotesque', sans-serif;
@@ -18,7 +14,16 @@
 }
 .darker-m {
   font-family: 'Darker Grotesque', sans-serif;
-  font-size: 30px;
+  font-size: 27px;
+  line-height: 28px;
+
+}
+
+.darker-m-bold {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 27px;
+  font-weight: 700;
+  line-height: 28px;
 }
 .darker-lg-bold {
   font-family: 'Darker Grotesque', sans-serif;
@@ -40,3 +45,6 @@
   font-size: 100px;
   font-weight: 200;
 }
+
+
+
