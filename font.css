@@ -4,25 +4,39 @@
   text-transform: uppercase;
 }
 
-.strong {
-  font-weight: 600;
-}
-.light {
-  font-weight: 300;
-}
 
 /*H1,H2 etc*/
 
-h1 {
-  font-size: 80px;
 
+
+
+
+.darker-s-bold {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.darker-m {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 30px;
+}
+.darker-lg-bold {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 40px;
+  font-weight: 700;
 }
 
+.raleway-s {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+}
+.raleway-m {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+}
 
-a {
-  color: inherit;
-  text-decoration: none;
-  font-weight: 600;
-  font-size: 14px;
-
+.raleway-lg-exlight {
+  font-family: 'Raleway', sans-serif;
+  font-size: 100px;
+  font-weight: 200;
 }

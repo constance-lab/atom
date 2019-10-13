@@ -14,11 +14,11 @@
 
 body {
 
-font-family: 'Montserrat', sans-serif;
- margin: 0px;
+  margin: 0px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+
 }
 
 

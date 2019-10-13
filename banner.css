@@ -1,4 +1,4 @@
-.banner {
+.banner-aw {
   background-size: cover;
   /*background-image: url("images/atom_bg.svg");*/
   width: 100vw;
@@ -11,10 +11,10 @@
 
 .atom {
   position: absolute;
-  top: 0;
-  left: -200px;
+  top: -600px;
+  right: 700px;
   z-index: -1;
-  height: 800px;
+  height: 2000px;
 }
 
 .title-banner {
@@ -25,11 +25,12 @@
   justify-content: center;
   height: 596px;
   text-align: center;
-  width: 80%;
+  width: 40%;
+
 
 }
 
-.navbar {
+.navbar-aw {
   display: flex;
   justify-content: flex-end;
   height: 70px;
@@ -37,14 +38,14 @@
 
 }
 
-.navbar-items {
+.navbar-items-aw {
    display: flex;
    justify-content: space-around;
    margin: 50px 80px;
    z-index: 30;
 }
 
-.items {
+.items-aw {
   color: inherit;
   border: 2px solid #ccaf54; /* rouge dynamique #fe2f02 */
   padding: 7px 10px;
@@ -52,11 +53,12 @@
 
  }
 
- .items:hover {
+ .items-aw:hover {
   color: white;
   border: 2px solid #ccaf54;
   transition: 0.3s;
   background-color: #ccaf54;
+  text-decoration: none;
 
  }
 
