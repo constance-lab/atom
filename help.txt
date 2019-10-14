@@ -11,3 +11,12 @@ ILLUSTRATION POSITION
 ! L'illustration placée en position absolute déborde et allonge la taille écran !
 
 --> overflow: hidden;
+
+
+BOOTSTRAP BREAKING POINTS 
+
+
+sm   >=   567px
+md   >=   768px
+lg   >=   992px
+xl   >=   1200px
