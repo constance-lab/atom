@@ -1,0 +1,13 @@
+BOOTSTRAP CARDS
+
+! Les cartes se cassent entre différentes colonnes si les images sont grandes et aussi en fonction de la taille de l'écran !
+
+--> pour chaque carte attribuer une classe et lui donner comme valeur : 
+-webkit-column-break-inside: avoid;
+
+
+ILLUSTRATION POSITION
+
+! L'illustration placée en position absolute déborde et allonge la taille écran !
+
+--> overflow: hidden;
