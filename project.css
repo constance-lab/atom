@@ -1,16 +1,27 @@
 .project-aw {
 position: relative;
-
+overflow: hidden;
 }
-
 
 
 
 .atomB {
   position: absolute;
-  top: 100px;
-  right: -800px;
+  bottom: 100px;
+  left: 1000px;
   z-index: -1;
   width: 2000px;
 
 }
+
+.card-margin-aw {
+  margin: 12px 50px;
+
+}
+
+.card-breakavoid-aw {
+
+-webkit-column-break-inside: avoid;
+
+}
+
