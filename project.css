@@ -1,12 +1,11 @@
 .project-aw {
-position: relative;
 overflow: hidden;
 }
 
 
 
 .atomB {
-  position: absolute;
+
   bottom: 100px;
   left: 1000px;
   z-index: -1;
@@ -16,7 +15,7 @@ overflow: hidden;
 }
 
 .card-margin-aw {
-  margin: 12px 80px;
+  margin: 30px 80px;
 
 }
 
@@ -27,10 +26,25 @@ overflow: hidden;
 
 }
 
+.pastille-web {
+  height: 80px;
+  top: -20px;
+  right: -20px;
+
+}
+
 
 @media (max-width: 991px) {
   .card-margin-aw {
   margin: 12px 40px;
+
+}
+}
+
+
+@media (max-width: 767px) {
+  .card-margin-aw {
+  margin: 12px 20px;
 
 }
 }
