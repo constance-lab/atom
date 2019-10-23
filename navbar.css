@@ -1,5 +1,9 @@
+.flex-atom {
+  display: flex
+}
+
 .navbar-aw {
-  display: flex;
+
   justify-content: flex-end;
   height: 70px;
 
@@ -7,7 +11,7 @@
 }
 
 .navbar-items-aw {
-   display: flex;
+
    justify-content: flex-end;
    margin: 50px 80px;
    z-index: 30;
@@ -31,5 +35,5 @@
  }
 
 .atom-home {
-  width: 30px;
+  width: 100px;
 }
