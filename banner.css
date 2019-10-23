@@ -3,7 +3,6 @@
   /*background-image: url("images/atom_bg.svg");*/
   width: 100vw;
   position: relative;
-
   height: 800px;
 
 
@@ -20,8 +19,6 @@
 
 }
 
-
-
 .title-banner {
   margin: auto;
   display: flex;
@@ -34,38 +31,6 @@
 
 
 }
-
-.navbar-aw {
-  display: flex;
-  justify-content: flex-end;
-  height: 70px;
-
-
-}
-
-.navbar-items-aw {
-   display: flex;
-   justify-content: flex-end;
-   margin: 50px 80px;
-   z-index: 30;
-}
-
-.items-aw {
-  color: inherit;
- /* border: 2px solid #ccaf54; rouge dynamique #fe2f02 */
-  padding: 4px 6px;
-  margin: 0 20px;
-
- }
-
- .items-aw:hover {
-  color: black;
-  transition: 0.2s;
-
-  border-bottom: 4px solid #3c3cba;
-  text-decoration: none;
-
- }
 
 
 

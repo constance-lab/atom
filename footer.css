@@ -17,11 +17,11 @@
 }
 
 .link-footer {
-
-  text-decoration: underline;
+  color: inherit;
 }
 
 .link-footer:hover {
+  color: #3c3cba;
   text-decoration: none;
 
 
