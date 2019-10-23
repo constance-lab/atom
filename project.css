@@ -33,6 +33,15 @@ overflow: hidden;
 
 }
 
+.link-project {
+  color: inherit;
+}
+.link-project:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+
 
 @media (max-width: 991px) {
   .card-margin-aw {
