@@ -34,6 +34,9 @@
   margin-top: -20px;
   position: fixed;
 
-
-
+}
+.atom-home:hover {
+  background-color: #CCAF54;
+  border: none;
+  transition: 0.2s;
 }
