@@ -1,28 +1,26 @@
 
 .project-banner {
+height: 90vh;
+}
 
+.bg-grey {
 background-color: #F7F5F0;
-height: 100vh;
-
-
-
-
-
 }
 
 
 .mulvig-logo-size {
 
- width: 90%;
- margin: 0 auto;
+ width: 700px;
+ margin: 50px auto;
 
 
 }
 
 
 
-.project-box-margin {
-
-  margin: 0 40px;
-
+.row-project-view {
+  display: flex;
+  justify-content: space-around;
 }
+
+
