@@ -19,7 +19,8 @@ a
 
 a:hover
 {
-  color: tomato;
+  text-decoration: none;
+  color: #E2C32C;
 }
 
 #menuToggle
