@@ -35,3 +35,8 @@ body {
 
 }
 
+.flex-between-aw {
+  display: flex;
+  justify-content: space-between;
+
+}
