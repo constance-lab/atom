@@ -1,3 +1,12 @@
+h1 {
+  width: 100px;
+}
+
+h2 {
+  margin-top: 10px;
+  margin-left: 300px;
+}
+
 /*STYLE*/
 
 .upp {
@@ -5,12 +14,12 @@
 }
 
 
-/*google font*/
+                    /*google font*/
 
 .darker-s-bold {
   font-family: 'Darker Grotesque', sans-serif;
   font-size: 16px;
-  font-weight: 700;
+  font-weight: 800;
 }
 .darker-m {
   font-family: 'Darker Grotesque', sans-serif;
@@ -21,38 +30,62 @@
 
 .darker-m-bold {
   font-family: 'Darker Grotesque', sans-serif;
-  font-size: 27px;
+  font-size: 48px;
   font-weight: 700;
-  line-height: 25px;
+  line-height: 45px;
+
 }
 .darker-lg-bold {
   font-family: 'Darker Grotesque', sans-serif;
-  font-size: 40px;
+  font-size: 110px;
   font-weight: 700;
+  line-height: 90px;
 }
 
-.raleway-s {
-  font-family: 'Raleway', sans-serif;
-  font-size: 15px;
-}
+                    /*Mobile view*/
 
-.raleway-s-bold {
-  font-family: 'Raleway', sans-serif;
-  font-size: 15px;
-  font-weight: 700;
+@media (max-width: 1080px) {
+    .darker-m-bold {
+      font-size: 40px;
+      line-height: 40px;
 
-}
+    }
 
-.raleway-m {
-  font-family: 'Raleway', sans-serif;
-  font-size: 20px;
-}
+    h2 {
+      margin-left: 250px;
+    }
 
-.raleway-lg-exlight {
-  font-family: 'Raleway', sans-serif;
-  font-size: 100px;
-  font-weight: 200;
-}
+ }
 
+@media (max-width: 961px) {
+    .darker-m-bold {
+      font-size: 36px;
+      line-height: 35px;
+    }
+     h2 {
+      margin-left: 230px;
+    }
+
+
+ }
+
+ @media (max-width: 767px) {
+
+
+    .darker-m-bold {
+      font-size: 38px;
+      line-height: 34px;
+    }
+    .darker-lg-bold {
+      font-size: 90px;
+      line-height: 70px;
+    }
+
+    h2 {
+      margin-top: 30px;
+      margin-left: 0;
+    }
+
+ }
 
 

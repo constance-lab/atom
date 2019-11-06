@@ -1,36 +1,29 @@
-.banner-aw {
+.home-aw {
   background-size: cover;
-  /*background-image: url("images/atom_bg.svg");*/
+  background-color: #E2C32C;
   width: 100vw;
-  position: relative;
-  height: 800px;
+  height: 680px;
+  padding: 80px 40px 80px 80px;
+}
 
+
+.home-content-margin {
+  margin: 70px 100px 0 70px;
 
 }
 
-.atom {
-  position: absolute;
-  top: -600px;
-  right: 700px;
-  z-index: -1;
-  width: 2000px;
+@media (max-width: 767px) {
+    .home-aw {
+      padding: 30px;
+    }
+    .home-content-wrap {
+      flex-wrap: wrap;
+    }
+    .home-content-margin {
+      margin: 20px;
 
+    }
 
-
-}
-
-.title-banner {
-  margin: auto;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
-  height: 596px;
-  text-align: center;
-  width: 40%;
-
-
-}
-
+ }
 
 
