@@ -121,12 +121,13 @@ a:hover
 #menu
 {
   position: absolute;
-  width: 300px;
-  margin: -100px 0 0 -50px;
+  width: 100vw;
+  height: 715px;
+  margin: -100px 0 0 -40px;
   padding: 50px;
   padding-top: 125px;
 
-  background: #ededed;
+  background: white;
   list-style-type: none;
 
   transform-origin: 0% 0%;
