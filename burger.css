@@ -108,7 +108,7 @@ a:hover
 #menu
 {
   position: absolute;
-  width: 300px;
+  width: 100vw;
   height: 750px;
   margin: -100px 0 0 -40px;
   padding: 50px;
