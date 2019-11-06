@@ -22,12 +22,21 @@ h2 {
   font-weight: 800;
   line-height: 16px;
 }
-.darker-m {
-  font-family: 'Darker Grotesque', sans-serif;
-  font-size: 27px;
-  line-height: 28px;
 
+.darker-s-bold {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 23px;
+  font-weight: 800;
+  line-height: 25px;
 }
+
+.darker-s {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 23px;
+  font-weight: 500;
+  line-height: 25px;
+}
+
 
 .darker-m-bold {
   font-family: 'Darker Grotesque', sans-serif;
