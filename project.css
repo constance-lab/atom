@@ -6,5 +6,19 @@
 }
 
 .imgA {
-    background-image: url("images/cover_mihivai.svg");
+  background-image: url("images/cover_mihivai.svg");
 }
+
+
+ @media (max-width: 767px) {
+  .img-project {
+  height: 350px;
+
+  }
+
+  .imgA {
+  background-image: url("images/cover_mobile_mihivai.svg");
+  }
+
+}
+
