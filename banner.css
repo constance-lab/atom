@@ -13,14 +13,14 @@
 }
 
 @media (max-width: 767px) {
-    .header-aw {
-      padding: 30px;
+    .header {
+      padding: 20px;
     }
     .header-content-wrap {
       flex-wrap: wrap;
     }
     .header-content-margin {
-      margin: 20px;
+      margin: 80px 20px;
 
     }
 
