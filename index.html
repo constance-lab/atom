@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="utilities.css">
 </head>
 <body>
-  <div class="home-aw">
+  <header class="header">
 
 <!-- NAVBAR desktop -->
 
@@ -26,11 +26,40 @@
 
 <!-- NAVBAR burger -->
 
-    <div class="flex-start-aw home-content-margin home-content-wrap">
+<div class="d-block d-md-none">
+  <nav role="navigation">
+    <div id="menuToggle">
+      <!--
+      A fake / hidden checkbox is used as click reciever,
+      so you can use the :checked selector on it.
+      -->
+      <input type="checkbox" />
+
+
+      <span></span>
+      <span></span>
+      <span></span>
+
+
+      <ul id="menu">
+        <a href="#"><li>Accueil</li></a>
+        <a href="#"><li>Réalisations</li></a>
+        <a href="#"><li>Bio</li></a>
+        <a href="#"><li>Journal</li></a>
+        <a href="https://erikterwan.com/" target="_blank"><li>Contact</li></a>
+      </ul>
+    </div>
+  </nav>
+</div>
+
+<!-- NAVBAR burger end -->
+
+    <div class="flex-start-aw header-content-margin header-content-wrap">
       <h1 class="darker-lg-bold">Atom Atelier Web</h1>
       <h2 class="darker-m-bold">Graphisme, design web et conception de sites internet pour les entreprises souhaitant développer leur présence sur le web.</h2>
     </div>
-  </div>
+
+  </header>
 
 
 <!-- FOOTER -->
@@ -54,7 +83,7 @@
 
 
 
-</section>
+
 
 
 
@@ -62,4 +91,6 @@
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
 </html>

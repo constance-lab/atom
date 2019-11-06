@@ -1,4 +1,4 @@
-.home-aw {
+.header {
   background-size: cover;
   background-color: #E2C32C;
   width: 100vw;
@@ -7,19 +7,19 @@
 }
 
 
-.home-content-margin {
+.header-content-margin {
   margin: 70px 100px 0 70px;
 
 }
 
 @media (max-width: 767px) {
-    .home-aw {
+    .header-aw {
       padding: 30px;
     }
-    .home-content-wrap {
+    .header-content-wrap {
       flex-wrap: wrap;
     }
-    .home-content-margin {
+    .header-content-margin {
       margin: 20px;
 
     }
