@@ -20,6 +20,7 @@ h2 {
   font-family: 'Darker Grotesque', sans-serif;
   font-size: 16px;
   font-weight: 800;
+  line-height: 16px;
 }
 .darker-m {
   font-family: 'Darker Grotesque', sans-serif;
@@ -31,14 +32,14 @@ h2 {
 .darker-m-bold {
   font-family: 'Darker Grotesque', sans-serif;
   font-size: 48px;
-  font-weight: 700;
+  font-weight: 800;
   line-height: 45px;
 
 }
 .darker-lg-bold {
   font-family: 'Darker Grotesque', sans-serif;
   font-size: 110px;
-  font-weight: 700;
+  font-weight: 800;
   line-height: 90px;
 }
 
