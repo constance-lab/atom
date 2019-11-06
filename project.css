@@ -1,10 +1,10 @@
 .img-project {
-  height: 680px;
+  height: 600px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .imgA {
-    background-image: url("images/transboisA.svg");
+    background-image: url("images/cover_mihivai.svg");
 }
