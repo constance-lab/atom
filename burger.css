@@ -110,12 +110,12 @@ a:hover
 {
   position: absolute;
   width: 100vw;
-  height: 750px;
+  height: 700px;
   margin: -100px 0 0 -40px;
   padding: 50px;
   padding-top: 125px;
 
-  background: white;
+  background: #E2C32C;
   list-style-type: none;
 
   transform-origin: 0% 0%;
