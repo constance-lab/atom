@@ -12,15 +12,25 @@
 .imgB {
     background-image: url("images/cover_mulvig.jpg");
 }
+
+.imgC {
+    background-image: url("images/coverbis_stagein.svg");
+}
+
+
+
 .project-content {
   margin: 50px 100px;
 }
 
 .project-content a {
   text-decoration: underline;
-  padding-bottom: 2px;
 
 }
+
+
+
+
 
  @media (max-width: 767px) {
   .img-project {
