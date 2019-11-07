@@ -1,5 +1,5 @@
 .img-project {
-  height: 600px;
+  height: 620px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -16,7 +16,11 @@
   margin: 50px 100px;
 }
 
+.project-content a {
+  text-decoration: underline;
+  padding-bottom: 2px;
 
+}
 
  @media (max-width: 767px) {
   .img-project {
@@ -26,6 +30,10 @@
 
   .imgA {
   background-image: url("images/cover_mobile_mihivai.svg");
+  }
+
+  .project-content {
+    margin: 20px 20px;
   }
 
 }

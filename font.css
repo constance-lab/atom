@@ -81,6 +81,16 @@ h2 {
 
  @media (max-width: 767px) {
 
+    .darker-s {
+      font-size: 18px;
+      line-height: 18px;
+    }
+
+    .darker-s-bold {
+
+      font-size: 18px;
+      line-height: 18px;
+    }
 
     .darker-m-bold {
       font-size: 30px;
