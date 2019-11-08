@@ -3,6 +3,11 @@
   background-color: #E2C32C;
 }
 
+.link-home:hover {
+  color: #fdfdfd;
+  border-bottom: 0;
+}
+
 @media (max-width: 767px) {
   .footer {
   padding: 30px 40px;
