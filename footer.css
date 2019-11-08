@@ -1,39 +1,5 @@
+.footer {
+  padding: 80px 40px 80px 80px;
+  background-color: #E2C32C;
 
-
-.footer-title {
-
-  margin-top: 40px;
-  margin-left: 100px;
-
-}
-
-.footer-subtitle {
-
-  margin-top: 20px;
-  margin-left: 100px;
-  text-align: left;
-
-
-}
-
-.link-footer {
-  color: inherit;
-}
-
-.link-footer:hover {
-  color: #3c3cba;
-  text-decoration: none;
-
-
-}
-
-.boxfooter{
-  margin-top: 30px;
-  padding-left: 0;
-  margin-bottom: 30px;
-
-}
-
-.atom-footer {
-  height: 30px;
 }
