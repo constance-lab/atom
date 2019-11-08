@@ -16,6 +16,13 @@ h2 {
 
                     /*google font*/
 
+.darker-xs {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 16px;
+}
+
 .darker-xs-bold {
   font-family: 'Darker Grotesque', sans-serif;
   font-size: 17px;
@@ -27,7 +34,7 @@ h2 {
   font-family: 'Darker Grotesque', sans-serif;
   font-size: 23px;
   font-weight: 800;
-  line-height: 25px;
+  line-height: 17px;
 }
 
 .darker-s {
