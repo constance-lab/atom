@@ -24,7 +24,11 @@
 
 
 .project-content {
-  margin: 18px 150px 12px;
+  margin: 18px 150px 18px;
+}
+
+.project-content p {
+  margin: 0;
 }
 
 
@@ -44,7 +48,7 @@
   }
 
   .project-content {
-    margin: 12px 20px 5px;
+    margin: 12px;
   }
 
 }
