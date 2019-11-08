@@ -110,17 +110,14 @@ a:hover
 {
   position: absolute;
   width: 100vw;
-  height: 700px;
+  height: 553px;
   margin: -100px 0 0 -40px;
   padding: 50px;
   padding-top: 125px;
-
-  background: #E2C32C;
+  background: white;
   list-style-type: none;
-
   transform-origin: 0% 0%;
   transform: translate(-100%, 0);
-
   transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
 }
 
@@ -130,8 +127,9 @@ a:hover
   font-size: 22px;
 }
 
-#menuToggle input:checked ~ ul
-{
+#menuToggle input:checked ~ ul {
   transform: none;
 }
+
+
 
