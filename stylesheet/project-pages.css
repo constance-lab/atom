@@ -10,18 +10,25 @@
 width: 100%;
 }
 
+.navbar-frame {
+  padding: 80px 0 0 80px;
+}
+
 
 @media (max-width: 767px) {
 
-.project-content {
+.project-frame {
   padding: 0;
 }
 .project-frame-content {
-  padding: 0;
+  padding: 12px 24px;
 }
 
 .project-content-wrap {
   flex-wrap: wrap;
+}
+.navbar-frame {
+  padding: 24px 0 0 24px;
 }
 
 }
