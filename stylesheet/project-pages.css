@@ -12,9 +12,14 @@
 
 
 @media (max-width: 767px) {
-.project-frame {
+
+.project-content {
   padding: 0;
 }
+.project-frame-content {
+  padding: 0;
+}
+
 .project-content-wrap {
   flex-wrap: wrap;
 }
