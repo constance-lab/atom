@@ -1,4 +1,19 @@
 .project-frame {
-  padding: 0 80px;
+  padding: 0 60px;
 }
 
+.project-frame-content {
+  padding: 100px 150px;
+}
+
+
+
+
+
+
+@media (max-width: 767px) {
+.project-frame {
+  padding: 0;
+}
+
+}
