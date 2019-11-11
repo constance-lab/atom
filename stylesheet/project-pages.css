@@ -15,5 +15,8 @@
 .project-frame {
   padding: 0;
 }
+.project-content-wrap {
+  flex-wrap: wrap;
+}
 
 }
