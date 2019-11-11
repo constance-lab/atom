@@ -21,10 +21,14 @@
     background-image: url("images/cover_transbois.svg");
 }
 
+.imgE {
+    background-image: url("images/cover_mihivai.svg");
+}
+
 
 
 .project-content {
-  margin: 18px 150px 18px;
+  margin: 15px 150px 40px;
 }
 
 .project-content p {
@@ -47,8 +51,12 @@
   background-image: url("images/cover_kusmi.jpg");
   }
 
+  .imgE {
+  background-image: url("images/cover_mobile_mihivai.svg");
+  }
+
   .project-content {
-    margin: 12px;
+    margin: 12px 0 24px 0;
   }
 
 }
