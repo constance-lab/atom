@@ -6,23 +6,23 @@
 }
 
 .imgA {
-  background-image: url("images/cover_kusmi.jpg");
+  background-image: url("../images/cover_kusmi.jpg");
 }
 
 .imgB {
-    background-image: url("images/cover_mulvig.jpg");
+    background-image: url("../images/cover_mulvig.jpg");
 }
 
 .imgC {
-    background-image: url("images/coverbis_stagein.svg");
+    background-image: url("../images/coverbis_stagein.svg");
 }
 
 .imgD {
-    background-image: url("images/cover_transbois.svg");
+    background-image: url("../images/cover_transbois.svg");
 }
 
 .imgE {
-    background-image: url("images/cover_mihivai.svg");
+    background-image: url("../images/cover_mihivai.svg");
 }
 
 
@@ -48,11 +48,11 @@
   }
 
   .imgA {
-  background-image: url("images/cover_kusmi.jpg");
+  background-image: url("../images/cover_kusmi.jpg");
   }
 
   .imgE {
-  background-image: url("images/cover_mobile_mihivai.svg");
+  background-image: url("../images/cover_mobile_mihivai.svg");
   }
 
   .project-content {
