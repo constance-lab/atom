@@ -36,25 +36,69 @@ body {
 
 }
 
+.flex-end-aw {
+  display: flex;
+  justify-content: flex-end;
+
+}
+
 .flex-between-aw {
   display: flex;
   justify-content: space-between;
 
 }
 
-a
+.p-fixed {
+  position: fixed;
+
+}
+
+.header a
 {
   color: inherit;
 
 }
 
-a:hover
+.header a:hover
 {
   color: black;
   transition: 0.2s;
   border-bottom: 4px solid;
   text-decoration: none;
 }
+
+#projects a
+{
+  color: inherit;
+
+}
+
+#projects a:hover
+{
+  color: black;
+  transition: 0.2s;
+  border-bottom: 4px solid;
+  text-decoration: none;
+}
+
+
+#contact a
+{
+  color: inherit;
+
+}
+
+#contact a:hover
+{
+  color: black;
+  transition: 0.2s;
+  border-bottom: 4px solid;
+  text-decoration: none;
+}
+
+
+
+
 
 .link-null {
   color: inherit;
