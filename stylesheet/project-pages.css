@@ -6,9 +6,9 @@
   padding: 100px 90px;
 }
 
-
-
-
+.project-frame img {
+width: 100%;
+}
 
 
 @media (max-width: 767px) {
