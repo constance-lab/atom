@@ -55,3 +55,12 @@ a:hover
   border-bottom: 4px solid;
   text-decoration: none;
 }
+
+.link-null {
+  color: inherit;
+}
+
+.link-null:hover {
+  text-decoration: none;
+  color: inherit;
+}
