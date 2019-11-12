@@ -1,15 +1,7 @@
 .items-aw {
-  color: inherit;
   margin: 0 30px;
  /* border: 2px solid #ccaf54; rouge dynamique #fe2f02 */
 
  }
 
- .items-aw:hover {
-  color: black;
-  transition: 0.2s;
-  border-bottom: 4px solid;
-  text-decoration: none;
-
- }
 
