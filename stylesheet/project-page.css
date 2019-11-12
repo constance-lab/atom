@@ -25,11 +25,15 @@ width: 100%;
   padding: 0;
 }
 .project-frame-content {
-  padding: 12px 24px;
+  padding: 12px 45px;
 }
 
 .project-content-wrap {
   flex-wrap: wrap;
+}
+
+.col-gutters {
+  padding-right: 10px;
 }
 
 }
