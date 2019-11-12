@@ -1,0 +1,78 @@
+
+.header-p {
+  background-size: cover;
+  width: 100vw;
+  height: 650px;
+  padding: 80px 40px 80px 80px;
+}
+
+.h-mihivai {
+  background-image: url("../images/h-mihivai.svg");
+
+}
+
+.h-kusmi {
+  background-image: url("../images/h-mihivai.svg");
+
+}
+.h-mulvig {
+  background-image: url("../images/h-mihivai.svg");
+
+}
+.h-stagein {
+  background-image: url("../images/h-mihivai.svg");
+
+}
+.h-transbois {
+  background-image: url("../images/h-mihivai.svg");
+
+}
+
+.h-thienpont {
+  background-image: url("../images/h-mihivai.svg");
+
+}
+
+.h-bolhao {
+  background-image: url("../images/h-mihivai.svg");
+
+}
+
+@media (max-width: 767px) {
+  .header-p {
+    padding: 20px;
+    height: 520px;
+  }
+
+  .h-mihivai {
+  background-image: url("../images/h-mihivai.svg");
+
+  }
+  .h-kusmi {
+  background-image: url("../images/h-mihivai.svg");
+
+  }
+  .h-mulvig {
+    background-image: url("../images/h-mihivai.svg");
+
+  }
+  .h-stagein {
+    background-image: url("../images/h-mihivai.svg");
+
+  }
+  .h-transbois {
+    background-image: url("../images/h-mihivai.svg");
+
+  }
+
+  .h-thienpont {
+    background-image: url("../images/h-mihivai.svg");
+
+  }
+
+  .h-bolhao {
+    background-image: url("../images/h-mihivai.svg");
+
+  }
+
+}
