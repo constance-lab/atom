@@ -67,18 +67,6 @@ body {
   text-decoration: none;
 }
 
-#menu a {
-  color: inherit;
-}
-
-#menu a:hover {
-   cursor: pointer;
-  color: black;
-  transition: 0.2s;
-  border-bottom: 4px solid;
-  text-decoration: none;
-}
-
 
 .white-link {
   color: inherit;

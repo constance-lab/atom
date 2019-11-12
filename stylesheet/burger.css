@@ -85,7 +85,7 @@
   width: 100vw;
   height: 553px;
   margin: -100px 0 0 -40px;
-  padding: 50px;
+  padding: 90px;
   padding-top: 125px;
   background: white;
   list-style-type: none;
@@ -96,8 +96,8 @@
 
 #menu li
 {
-  padding: 10px 0;
-  font-size: 22px;
+  padding: 18px 0;
+
 }
 
 #menuToggle input:checked ~ ul {
