@@ -68,6 +68,16 @@ body {
   text-decoration: none;
 }
 
+.grey-link {
+
+  color: #8e8e8e;
+}
+
+.grey-link:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
 
 .white-link {
   color: inherit;
