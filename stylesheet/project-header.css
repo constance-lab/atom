@@ -12,7 +12,7 @@
 }
 
 .h-kusmi {
-  background-image: url("../images/h-mihivai.svg");
+  background-image: url("../images/h_kusmitea.svg");
 
 }
 .h-mulvig {
@@ -20,21 +20,21 @@
 
 }
 .h-stagein {
-  background-image: url("../images/h-mihivai.svg");
+  background-image: url("../images/h_stagein.svg");
 
 }
 .h-transbois {
-  background-image: url("../images/h-mihivai.svg");
+  background-image: url("../images/h_transbois.svg");
 
 }
 
-.h-thienpont {
-  background-image: url("../images/h-mihivai.svg");
+.h-marotte {
+  background-image: url("../images/h_marotte.svg");
 
 }
 
 .h-bolhao {
-  background-image: url("../images/h-mihivai.svg");
+  background-image: url("../images/h_bolhao.svg");
 
 }
 
@@ -47,36 +47,36 @@
 }
 
 
-@media (max-width: 550px) {
+@media (max-width: 767px) {
 
 .h-mihivai {
   background-image: url("../images/h_mihivai_mobile.svg");
 
   }
   .h-kusmi {
-  background-image: url("../images/h-mihivai.svg");
+  background-image: url("../images/h_kusmitea_mobile.svg");
 
   }
   .h-mulvig {
-    background-image: url("../images/h-mihivai.svg");
+  background-image: url("../images/h_mulvig_mobile.svg");
 
   }
   .h-stagein {
-    background-image: url("../images/h-mihivai.svg");
+    background-image: url("../images/h_stagein_mobile.svg");
 
   }
   .h-transbois {
-    background-image: url("../images/h-mihivai.svg");
+    background-image: url("../images/h_transbois_mobile.svg");
 
   }
 
-  .h-thienpont {
-    background-image: url("../images/h-mihivai.svg");
+  .h-marotte {
+    background-image: url("../images/h_marotte_mobile.svg");
 
   }
 
   .h-bolhao {
-    background-image: url("../images/h-mihivai.svg");
+    background-image: url("../images/h_bolhao_mobile.svg");
 
   }
 
