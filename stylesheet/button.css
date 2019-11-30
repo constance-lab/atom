@@ -1,6 +1,6 @@
 .btn-full {
   background-color: #FAF3E7;
-  padding: 20px 30px;
+  padding: 15px 25px;
 }
 
 
@@ -14,8 +14,9 @@
   cursor: pointer;
   color: black;
   transition: 0.2s;
-  border-bottom: 4px solid;
+  border-bottom: 5px solid #2E5339;
   text-decoration: none;
+
 }
 
 .grey-link {
@@ -37,6 +38,16 @@
   color: #fdfdfd;
   text-decoration: none;
 }
+
+.colored-link {
+  color: inherit;
+}
+
+.colored-link:hover {
+  color: #2E5339;
+  text-decoration: none;
+}
+
 
 .aw-link {
   color: inherit;

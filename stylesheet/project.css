@@ -9,15 +9,17 @@
 
 .img-project {
   height: 530px;
-  background-position: left top;
+  background-size: cover;
   background-repeat: no-repeat;
-  background-size: 230%;
+
 
 
 }
 
 .imgA {
   background-image: url("../images/cover_kusmi.jpg");
+  background-size: 250%;
+  background-position: center left;
 }
 
 .imgB {
@@ -49,7 +51,7 @@
 
 
 .p-right {
-  right: -50px;
+  right: -80px;
   bottom: 50px;
   z-index: 1;
 }

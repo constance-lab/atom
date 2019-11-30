@@ -42,15 +42,22 @@ h2 {
   font-family: 'Darker Grotesque', sans-serif;
   font-size: 23px;
   font-weight: 800;
-  line-height: 17px;
+  line-height: 30px;
 }
 
+.darker-m {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 38px;
+  font-weight: 500;
+  line-height: 35px;
+
+}
 
 .darker-m-bold {
   font-family: 'Darker Grotesque', sans-serif;
-  font-size: 38px;
+  font-size: 2rem;
   font-weight: 800;
-  line-height: 35px;
+  line-height: 2rem;
 
 }
 .darker-lg-bold {
@@ -60,14 +67,15 @@ h2 {
   line-height: 71px;
 }
 
+
+.txt-padding {
+  padding-right: 25px;
+}
+
                     /*Mobile view*/
 
 @media (max-width: 1080px) {
-    .darker-m-bold {
-      font-size: 40px;
-      line-height: 40px;
 
-    }
 
     h2 {
       margin-left: 250px;
@@ -76,10 +84,7 @@ h2 {
  }
 
 @media (max-width: 961px) {
-    .darker-m-bold {
-      font-size: 36px;
-      line-height: 35px;
-    }
+
      h2 {
       margin-left: 230px;
     }
@@ -100,10 +105,7 @@ h2 {
       line-height: 18px;
     }
 
-    .darker-m-bold {
-      font-size: 30px;
-      line-height: 30px;
-    }
+
     .darker-lg-bold {
       font-size: 80px;
       line-height: 65px;
