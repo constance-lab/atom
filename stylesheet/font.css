@@ -45,6 +45,10 @@ h2 {
   line-height: 30px;
 }
 
+.font-c {
+  color: #EBE0CC;
+}
+
 .darker-m {
   font-family: 'Darker Grotesque', sans-serif;
   font-size: 38px;
@@ -55,9 +59,9 @@ h2 {
 
 .darker-m-bold {
   font-family: 'Darker Grotesque', sans-serif;
-  font-size: 2rem;
+  font-size: 30px;
   font-weight: 800;
-  line-height: 2rem;
+  line-height: 30px;
 
 }
 .darker-lg-bold {

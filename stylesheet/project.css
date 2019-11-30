@@ -3,7 +3,8 @@
 }
 
 .project-details {
-  margin: ;
+  padding: 100px 250px 100px 150px;
+
 }
 
 
@@ -56,7 +57,7 @@
   z-index: 1;
 }
 .p-left {
-  right: -50px;
+  left: -50px;
   bottom: 50px;
   z-index: 1;
 }

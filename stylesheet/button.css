@@ -19,6 +19,19 @@
 
 }
 
+.c-link {
+
+  color: #EBE0CC;
+}
+
+.c-link:hover {
+  cursor: pointer;
+  color: #EBE0CC;
+  transition: 0.2s;
+  border-bottom: 5px solid #EBE0CC;;
+  text-decoration: none;
+}
+
 .grey-link {
 
   color: #8e8e8e;
@@ -29,15 +42,6 @@
   text-decoration: none;
 }
 
-
-.white-link {
-  color: inherit;
-}
-
-.white-link:hover {
-  color: #fdfdfd;
-  text-decoration: none;
-}
 
 .colored-link {
   color: inherit;
