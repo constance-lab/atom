@@ -1,0 +1,49 @@
+.btn-full {
+  background-color: #FAF3E7;
+  padding: 20px 30px;
+}
+
+
+.default-link
+{
+   color: #121212;
+}
+
+.default-link:hover
+{
+  cursor: pointer;
+  color: black;
+  transition: 0.2s;
+  border-bottom: 4px solid;
+  text-decoration: none;
+}
+
+.grey-link {
+
+  color: #8e8e8e;
+}
+
+.grey-link:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+
+.white-link {
+  color: inherit;
+}
+
+.white-link:hover {
+  color: #fdfdfd;
+  text-decoration: none;
+}
+
+.aw-link {
+  color: inherit;
+}
+
+.aw-link:hover {
+  color: #E2C32C;
+  text-decoration: none;
+  transition: 0.2s;
+}

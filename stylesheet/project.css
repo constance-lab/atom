@@ -1,8 +1,19 @@
+.project-wrapper {
+  margin: 0;
+}
+
+.project-details {
+  margin: ;
+}
+
+
 .img-project {
-  height: 620px;
-  background-position: center;
+  height: 530px;
+  background-position: left top;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 230%;
+
+
 }
 
 .imgA {
@@ -37,6 +48,16 @@
 
 
 
+.p-right {
+  right: -50px;
+  bottom: 50px;
+  z-index: 1;
+}
+.p-left {
+  right: -50px;
+  bottom: 50px;
+  z-index: 1;
+}
 
 
 
