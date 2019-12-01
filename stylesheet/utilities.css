@@ -11,8 +11,6 @@
 
 
 
-
-
 body {
   width: 100%;
   margin: 0px;
@@ -25,13 +23,7 @@ body {
 
 }
 
-.p-relative-aw {
-  position: relative;
-}
 
-.p-absolute-aw {
-  position: absolute;
-}
 
 .flex-start-aw {
   display: flex;
@@ -51,8 +43,5 @@ body {
 
 }
 
-.p-fixed {
-  position: fixed;
 
-}
 
