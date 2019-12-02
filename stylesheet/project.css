@@ -28,11 +28,16 @@
 }
 
 .imgC {
-    background-image: url("../images/coverbis_stagein.svg");
+    background-image: url("../images/cover_stagein.svg");
+    background-position: center;
+    background-size: 120%;
 }
 
 .imgD {
-    background-image: url("../images/cover_transbois.svg");
+    background-image: url("../images/cover_transbois_2.svg");
+    background-size: 110%;
+    background-position: center;
+
 }
 
 .imgE {
