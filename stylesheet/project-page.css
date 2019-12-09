@@ -1,10 +1,17 @@
 .header-p {
   background-size: cover;
   width: 100vw;
-  height: 650px;
-  padding: 80px 40px 80px 80px;
+  padding: 80px 40px 20px 80px;
 }
 
+.h-img {
+  margin: auto;
+  padding: 0 90px;
+  width: 100%;
+  z-index: -100;
+
+
+}
 
 
 .project-frame {
@@ -12,10 +19,8 @@
 }
 
 .project-frame-content {
-  padding: 100px 90px;
+  padding: 50px 90px;
 }
-
-
 
 
 
@@ -24,23 +29,28 @@
 }
 
 .main {
-  width: 70%;
-  height: 200vh;
+  width: 80%;
+  height: 250vh;
   min-height: 1000px;
   display: flex;
   flex-direction: column;
 
 }
 
+.main img {
+  padding: 20px 0;
+}
+
 .sidebar {
-  width: 25%;
+  width: 20%;
   height: 25vh;
   min-height: 200px;
   overflow: auto;
   position: -webkit-sticky;
   position: sticky;
-  top: 5%;
-  left: 7%;
+  top: 10%;
+  padding-left: 90px;
+  padding-top: 40px;
 }
 
 .wrapper {
@@ -57,7 +67,6 @@
 
 .header-p {
     padding: 20px;
-    height: 520px;
 }
 
 .project-frame {
