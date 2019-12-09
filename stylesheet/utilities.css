@@ -44,5 +44,10 @@ body {
 
 }
 
+.flex-around-aw {
+  display: flex;
+  justify-content: space-around;
+
+}
 
 

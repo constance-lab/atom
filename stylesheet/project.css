@@ -29,23 +29,27 @@
 
 .imgB {
     background-image: url("../images/cover_mulvig_black.jpg");
+    background-size: 160%;
+    background-position: center;
 }
 
 .imgC {
     background-image: url("../images/cover_stagein.svg");
     background-position: center;
-    background-size: 120%;
+    background-size: 180%;
 }
 
 .imgD {
     background-image: url("../images/cover_transbois_red.svg");
-    background-size: 100%;
+    background-size: 160%;
     background-position: center;
 
 }
 
 .imgE {
     background-image: url("../images/cover_mihivai.svg");
+    background-size: 160%;
+    background-position: center;
 }
 
 
