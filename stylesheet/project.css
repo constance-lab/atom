@@ -3,7 +3,10 @@
 }
 
 .project-details {
-  padding: 8%;
+  padding: 9.5% 8% 5% 8%;
+  background-color: #FDFBF8;
+  border-right: solid white 4px;
+  border-left: solid white 4px;
 
 
 }
