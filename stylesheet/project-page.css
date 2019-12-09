@@ -8,16 +8,38 @@
 
 
 
-/* images */
-.project-frame img {
-  padding-left: 400px;
-  margin-top: -200px;
-  width: 100%;
-}
+
 
 .col-gutters {
   padding-right: 40px;
 }
+
+.main {
+  width: 60%;
+  height: 200vh;
+  min-height: 1000px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.sidebar {
+  width: 25%;
+  height: 25vh;
+  min-height: 200px;
+  overflow: auto;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 5%;
+  left: 7%;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+
 
 /* mobile */
 
@@ -40,8 +62,6 @@
 }
 
 }
-
-
 
 
 
