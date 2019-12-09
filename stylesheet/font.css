@@ -73,9 +73,12 @@ h2 {
 
 
 .txt-padding {
-  padding-right: 25px;
+  padding-right: 8px;
 }
 
+.txt-pink {
+  color: #815E5B;
+}
                     /*Mobile view*/
 
 @media (max-width: 1080px) {

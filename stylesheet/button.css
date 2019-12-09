@@ -1,7 +1,3 @@
-.btn-full {
-  background-color: #FAF3E7;
-  padding: 15px 25px;
-}
 
 
 .default-link
@@ -19,18 +15,6 @@
 
 }
 
-.c-link {
-
-  color: #EBE0CC;
-}
-
-.c-link:hover {
-  cursor: pointer;
-  color: #EBE0CC;
-  transition: 0.2s;
-  border-bottom: 5px solid #EBE0CC;;
-  text-decoration: none;
-}
 
 .grey-link {
   color: #8e8e8e;
@@ -42,26 +26,37 @@
 }
 
 
-.colored-link {
-  color: inherit;
-}
 
-.colored-link:hover {
-  color: #2E5339;
-  text-decoration: none;
-}
+.trr-link {
 
-.bold-link {
+  transition: transform .3s ease-out;
+  display: inline-block;
   color: black;
+
 }
 
-.bold-link:hover {
-
-  color: black;
+.trr-link:hover {
+  transform: translate(10px, 0);
   text-decoration: none;
-
+  color: #815E5B;
 
 }
+
+.trt-link {
+
+  transition: transform .3s ease-out;
+  display: inline-block;
+  color: black;
+
+}
+
+.trt-link:hover {
+  transform: translate(0, -5px);
+  text-decoration: none;
+  color: #815E5B;
+
+}
+
 
 .aw-link {
   color: black;
