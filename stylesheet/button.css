@@ -33,7 +33,6 @@
 }
 
 .grey-link {
-
   color: #8e8e8e;
 }
 
@@ -52,13 +51,26 @@
   text-decoration: none;
 }
 
+.bold-link {
+  color: black;
+}
+
+.bold-link:hover {
+
+  color: black;
+  text-decoration: none;
+
+
+}
 
 .aw-link {
-  color: inherit;
+  color: black;
 }
 
 .aw-link:hover {
-  color: #E2C32C;
+  color: #2E5339;
   text-decoration: none;
   transition: 0.2s;
 }
+
+
